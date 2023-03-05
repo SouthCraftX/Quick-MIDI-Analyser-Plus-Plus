@@ -1,0 +1,16 @@
+# Language file info
+$version="a1"
+$parent=""  # 继承
+$name="English(United Status)"
+
+# Main
+$start
+0:"OK"
+1:"No such a file or directory."
+2:"No file selected."
+3:"Permission denied."
+4:"Bad header."
+5:"Unexpected header size."
+6:"Unsupported format."
+7:"Bad Argument."
+$end
