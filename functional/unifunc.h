@@ -1,6 +1,0 @@
-#ifndef _QMAPP_HF_FUNCTIONAL_UNIFN_
-#define _QMAPP_HF_FUNCTIONAL_UNIFN_
-
-
-
-#endif //#ifndef _QMAPP_HF_FUNCTIONAL_UNIFN_
